@@ -1,6 +1,12 @@
 Materi Bubblesort
+sumber : https://kelasprogrammer.com/contoh-program-bubble-sort-cpp/
 
 Pengertian Pengurutan (Sorting)
 Pengurutan atau sorting adalah suatu proses penyusunan data yang akan disusun menurut pola/aturan tertentu. Terdapat 2 bentuk pengurutan yang dilakukan yaitu:
   - Pengurutan naik (ascending) mengurutkan data dari nilai yang terkecil atau yang terendah ke nilai yang lebih besar/tinggi.
   - Pengurutan turun (descending) adalah kebalikan dari pengurutan ascending dimana data akan diurutkan dari yang terbesar ke yang terkecil.
+  
+Algoritma Bubble Sort
+Metode Bubble sort adalah salah satu jenis algoritma pengurutan yang paling sederhana dan mudah baik dalam konsep dan penerapannya didalam program. 
+Bubble sort terinspirasi dari namanya ‘gelembung’ dimana berat jenis gelembung lebih kecil dari berat air sehingga akan mengapung diatas permukaan. 
+lewat ilustrasi inilah metode bubble sort bekerja.
